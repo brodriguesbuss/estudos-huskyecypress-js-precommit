@@ -2,6 +2,7 @@ testeeee
 
 criei a branch develop
 
-resolvendo conflito - texto da branch develop, agora texto do develop2
+resolvendo conflito - texto da branch develop
 
-dadada
+aprovamento 3aadaddaad
+
